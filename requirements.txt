@@ -1,0 +1,12 @@
+numpy
+matplotlib
+scikit-learn
+cirq
+sympy
+jinja2
+
+# Tensorflow in a version that is compatible with tf-quantum
+tensorflow==2.15.0
+
+# Tensorflow-Quantum (Python 3.10 needed here)
+tensorflow-quantum

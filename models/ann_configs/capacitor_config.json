@@ -1,0 +1,26 @@
+{
+    "samples": 70000,
+    "input_shape": [
+        4
+    ],
+    "neurons_input": 4,
+    "activation_input": "linear",
+    "anzahl_hidden": 1,
+    "neurons_hidden": [
+        14
+    ],
+    "activation_hidden": [
+        "relu"
+    ],
+    "neurons_output": 4,
+    "activation_output": "linear",
+    "optimizer": "nadam",
+    "learning_rate": 0.001977417850651913,
+    "loss": "mean_squared_error",
+    "metrics": [
+        "mse"
+    ],
+    "num_trails": 358,
+    "best_val_loss": 4.507210178417154e-06
+
+}
